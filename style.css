@@ -11,7 +11,11 @@
     padding: 30px;
 }
 
-h1 {
+.tituloprincipal {
+	padding:-left: 30px;
+}
+
+.titulocentralizado {
 	text-align: center
 }
 
@@ -36,8 +40,7 @@ em strong {
     padding: 20px;
  }
 
- h2 {
- 	 text-align: center;
+ 
  }
 ul{
    display: inline-block;
